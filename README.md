@@ -2,7 +2,7 @@
 
 Hey, I'm Eddy!
 
-I'm the product designer at [Tenki](https://www.tenki.cloud/), a start-up focused on making your GitHub Actions more efficient so you can save money and run workflows even faster. 
+I'm the product designer at [Luxor AI](https://www.luxor.ai/), a sub-company of Luxor Technology (https://luxor.tech/) that provides agentic cloud infrastructure in the form of sandboxes, GitHub Actions runners, and code reviewer.
 
 You can also find me making contributions to my portfolio. I see my website as the digital representation of myself on the World Wide Web. I seek to document my journey as a designer. As such, I make frequent updates. I started my current [portfolio](https://eddypeng.com/) on December 17, 2021 using HTML and CSS. Since then, I've consistently iterated on it.
 
